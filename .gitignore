@@ -1,3 +1,7 @@
+# Exclude application sensitive data
+sv-dev-ac.json
+env/development.properties
+
 # Logs
 logs
 *.log

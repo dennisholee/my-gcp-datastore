@@ -1,0 +1,28 @@
+{
+  "name": "my-gcp-datastore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dennisholee/my-gcp-datastore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dennisholee/my-gcp-datastore/issues"
+  },
+  "homepage": "https://github.com/dennisholee/my-gcp-datastore#readme",
+  "dependencies": {
+    "@google-cloud/datastore": "^2.0.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "properties-reader": "0.0.16"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
